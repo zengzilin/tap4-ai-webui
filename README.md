@@ -266,3 +266,5 @@ Tattao AI Design is a tattoo ai generator and design for the tattoo fans. If you
 ### Website content AI crawler
 
 visit: [6677-ai/tap4-ai-crawler](https://github.com/6677-ai/tap4-ai-crawler)
+
+## Other open source
